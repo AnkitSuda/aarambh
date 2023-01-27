@@ -1,0 +1,15 @@
+.about-image {
+    vertical-align: middle;
+    min-height: 50vh;
+    object-fit: contain;
+    width: 50vw;
+}
+
+.about-div {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh
+}
