@@ -5,7 +5,7 @@ Home
 About
 Sports
 Winners
-Sponsers
+Sponsors
 
 
  6 7 8 9
